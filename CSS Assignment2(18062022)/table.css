@@ -1,6 +1,6 @@
 body{background-color: purple;}
 table{background-color: pink;}
-th{background-color: aqua;}
+.th{background-color: aqua;}
 .high{background-color: seagreen;}
 .average{background-color:steelblue;}
 .least{background-color: orangered;}
