@@ -1,8 +1,32 @@
-body{background-color: black;color: black;}
-nav{background-color: aliceblue;}
-h2{color: white;}
-header{background-color: pink;}
-footer{background-color: pink;}
-a{color: black;}
-td{background-color: pink;}
-figcaption{color: blue;}
+body {
+    background-color: black;
+    color: black;
+}
+
+nav {
+    background-color: aliceblue;
+}
+
+h2 {
+    color: white;
+}
+
+header {
+    background-color: pink;
+}
+
+footer {
+    background-color: pink;
+}
+
+a {
+    color: black;
+}
+
+td {
+    background-color: pink;
+}
+
+figcaption {
+    color: blue;
+}
