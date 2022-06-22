@@ -1,9 +1,45 @@
-header{background-color:orange ;height: 100px;}
-nav{background-color: aqua; height: 40px;}
-main{background-color: chartreuse;height: 400px;}
-footer{background-color: orangered;height: 100px;}
-body{background-color: black;}
-.sectionone{height: 200px;}
-.sectiontwo{height: 200px;}
-.divone{background-color:darkmagenta ;float: left;width: 50%;height: 190px;}
-.divtwo{background-color: salmon;float: right;width: 50%;height:190px;}
+header {
+    background-color: orange;
+    height: 100px;
+}
+
+nav {
+    background-color: aqua;
+    height: 40px;
+}
+
+main {
+    background-color: chartreuse;
+    height: 400px;
+}
+
+footer {
+    background-color: orangered;
+    height: 100px;
+}
+
+body {
+    background-color: black;
+}
+
+.sectionone {
+    height: 200px;
+}
+
+.sectiontwo {
+    height: 200px;
+}
+
+.divone {
+    background-color: darkmagenta;
+    float: left;
+    width: 50%;
+    height: 190px;
+}
+
+.divtwo {
+    background-color: salmon;
+    float: right;
+    width: 50%;
+    height: 190px;
+}
