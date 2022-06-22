@@ -1,0 +1,12 @@
+header {background-color: aquamarine;overflow: hidden;padding: 5mm;}
+body{margin: 0px;}
+.logo{float: left;}
+.search{float: right;}
+nav{text-align: center;padding: 3mm;border: 1px solid;}
+.nb{border: 1px solid; width: 20mm;display: inline-block;padding: 5px;}
+.list{width: 20%;height: 50%;padding: 3mm;  float:left}
+.banner{width: 55%;height: 50%;padding: 20px;float: left;overflow: hidden;}
+.product{float: right;overflow: hidden;text-align: center;width: 20%;}
+.border{border: 1px solid;}
+.pro{display: inline-block;text-align: center;border:1px solid;}
+footer{text-align: center;padding: 5mm;background-color: aquamarine;overflow: hidden;width: 100%;}
