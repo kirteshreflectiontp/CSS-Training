@@ -10,32 +10,20 @@ header {
     float: right;
 }
 
-nav {
-    display: inline-block;
-    height: 25px;
-    overflow: hidden
-}
-
 .divone {
-    overflow: hidden;
     display: inline-block;
-    float: left;
+    width: 24%;
 }
 
 .divtwo {
-    overflow: hidden;
     display: inline-block;
-    float: left;
-}
-
-section {
-    overflow: hidden;
+    width: 33%;
 }
 
 footer {
-    display: inline-block;
+    text-align: center;
 }
 
-figcaption {
+figure {
     text-align: center;
 }
