@@ -46,10 +46,10 @@ nav {
 }
 
 .product {
+    float: right;
     overflow: hidden;
     text-align: center;
     width: 16%;
-    float: right;
     margin: 2mm;
 }
 
