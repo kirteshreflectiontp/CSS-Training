@@ -37,6 +37,9 @@ nav {
     padding: 3mm;
     float: left
 }
+.list:hover {
+    background-color: crimson;
+}
 
 .banner {
     width: 55%;
@@ -53,10 +56,14 @@ nav {
     width: 16%;
     margin: 2mm;
 }
+.border:hover {
+    background-color: crimson;
+}
 
 .border {
     border: 1px solid;
     text-align: center;
+    border-radius: 7px;
 }
 
 .align {
@@ -68,6 +75,10 @@ nav {
     border: 1px solid;
     overflow: hidden;
     display: inline-block;
+    border-radius: 7px;
+}
+.pro:hover {
+    background-color: crimson;
 }
 
 footer {
