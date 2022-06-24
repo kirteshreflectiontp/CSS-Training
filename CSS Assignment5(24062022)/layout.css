@@ -1,0 +1,97 @@
+header{
+    background-color: aquamarine;
+    padding: 5mm;
+    padding-bottom: 8mm;
+    overflow: hidden;
+}
+.logo {
+    width: 25%;
+    background-color: darksalmon;
+    border: 2px solid red;
+    float: left;
+    box-sizing: border-box;
+}
+.search {
+    width: 75%;
+    background-color: darksalmon;
+    border: 2px solid red;
+    float: right;
+    box-sizing: border-box;
+    text-align: right;
+}
+nav {
+    background-color: blueviolet;
+    padding: 5mm;
+}
+main {
+    background-color: chartreuse;
+    overflow: hidden;
+}
+h2 {
+    text-align: center;
+}
+.colomn {
+    box-sizing: border-box;
+    padding: 5mm;
+    overflow: hidden;
+}
+.colomn1 {
+    float: left;
+    width: 33%;
+    background-color: darksalmon;
+    border: 2px solid red;
+}
+.colomn2 {
+    float: left;
+    width: 33%;
+    background-color: darksalmon;
+    border: 2px solid red;
+}
+.colomn3 {
+    float: left;
+    width: 33%;
+    background-color: darksalmon;
+    border: 2px solid red;
+}
+.col1{
+    float: left;
+    width: 50%;
+    background-color: darksalmon;
+    border: 2px solid red;
+}
+.col2{
+    float: left;
+    width: 24%;
+    background-color: darksalmon;
+    border: 2px solid red;
+}
+.col3 {
+    float: left;
+    width: 25%;
+    background-color: darksalmon;
+    border: 2px solid red;
+}
+.col11 {
+    float: left;
+    width: 24%;
+    background-color: darksalmon;
+    border: 2px solid red;
+}
+.col22 {
+    float: left;
+    width: 50%;
+    background-color: darksalmon;
+    border: 2px solid red;
+}
+.col33 {
+    float: left;
+    width: 25%;
+    background-color: darksalmon;
+    border: 2px solid red;
+}
+footer {
+    background-color: aquamarine;
+    padding: 5mm 2mm;
+    overflow: hidden;
+}
+
