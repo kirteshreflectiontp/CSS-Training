@@ -20,11 +20,12 @@ nav {
     width: 100mm;
     background-color: bisque;
 }
+
 .navlink {
     display: inline-block;
     float: left;
     border: 1px solid black;
-    
+
 
 }
 
