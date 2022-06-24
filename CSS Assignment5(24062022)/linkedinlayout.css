@@ -1,0 +1,81 @@
+header {
+    overflow: hidden;
+    background-color: aqua;
+}
+
+.logo {
+    float: left;
+    overflow: hidden;
+    width: 15mm;
+}
+
+.search {
+    float: left;
+    overflow: hidden;
+    width: 70mm;
+}
+
+nav {
+    float: right;
+    width: 100mm;
+}
+
+main {
+    background-color: cornsilk;
+}
+
+.left-colomn {
+    overflow: hidden;
+    float: left;
+    width: 20%;
+    background-color: bisque;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.left-upperbox {
+    background-color: blue;
+}
+
+.left-lowerbox {
+    background-color: aquamarine;
+}
+
+.middle-colomn {
+    overflow: hidden;
+    display: inline-block;
+    width: 50%;
+    background-color: burlywood;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+
+.middle-upperbox {
+    background-color: brown;
+}
+
+.middle-lowerbox {
+    background-color: chartreuse;
+}
+
+.right-colomn {
+    overflow: hidden;
+    float: right;
+    width: 30%;
+    background-color: rgb(147, 138, 54);
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.right-upperbox {
+    background-color: coral;
+}
+
+.right-lowerbox {
+    background-color: darkorchid;
+}
+
+footer {
+    background-color: hotpink;
+}
