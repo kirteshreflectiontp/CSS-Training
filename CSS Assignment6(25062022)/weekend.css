@@ -50,10 +50,12 @@ body {
 
 }
 .middle-section {
-    margin: 10mm;
+    float: left;
+    margin: 5mm;
     text-align: left;
     overflow: hidden;
     width: 100%;
+    padding: 5mm;
 }
 .upper-img-section {
     text-align: center;
@@ -62,19 +64,20 @@ body {
     
 }
 .upper-written-section {
-    float: right;
+    float: left;
     width: 50%;
 }
 .lower-section {
-    margin: 10mm;
-    text-align: left;
+    float: left;
+    margin: 5mm;
     overflow: hidden;
     width: 100%;
+    padding: 5mm;
 
 }
 .lower-img-section {
     text-align: center;
-    float: right;
+    float: left;
     width: 50%;
      
 }
