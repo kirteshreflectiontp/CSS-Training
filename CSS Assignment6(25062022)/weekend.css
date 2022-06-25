@@ -40,17 +40,20 @@ body {
 }
 .header{
     width: 100%;
-    padding: 5mm 0mm;
+    padding: 8mm 0mm;
     text-align: center;
 }
 .title{
     font-size: larger;
+    border-bottom: 2px solid red;
+    padding: 2mm;
 
 }
 .middle-section {
-    margin: 5mm;
+    margin: 10mm;
     text-align: left;
     overflow: hidden;
+    width: 100%;
 }
 .upper-img-section {
     text-align: center;
@@ -63,9 +66,10 @@ body {
     width: 50%;
 }
 .lower-section {
-    margin: 5mm;
+    margin: 10mm;
     text-align: left;
     overflow: hidden;
+    width: 100%;
 
 }
 .lower-img-section {
