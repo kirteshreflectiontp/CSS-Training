@@ -47,15 +47,30 @@ body {
 }
 .middle-section {
     margin: 5mm;
+    text-align: left;
+    overflow: hidden;
 }
-.img-section {
+.upper-img-section {
+    float: left;
     width: 50%;
     
 }
-.written-section {
+.upper-written-section {
+    float: right;
     width: 50%;
 }
-.button{
-    width: 3mm;
+.lower-section {
     margin: 5mm;
+    text-align: left;
+    overflow: hidden;
+
+}
+.lower-img-section {
+    float: right;
+    width: 50%;
+     
+}
+.lower-written-section {
+    float: left;
+    width: 50%;
 }
