@@ -61,9 +61,10 @@ body {
 }
 
 .header {
-    width: 100%;
+    width: 94%;
     padding: 8mm 0mm;
     text-align: center;
+    float: center;
 }
 
 .title {
@@ -74,7 +75,7 @@ body {
 }
 
 .middle-section {
-    float: left;
+    float: center;
     margin: 5mm;
     overflow: hidden;
     width: 100%;
@@ -95,7 +96,7 @@ body {
 }
 
 .lower-section {
-    float: left;
+    float: center;
     margin: 5mm;
     overflow: hidden;
     width: 100%;
