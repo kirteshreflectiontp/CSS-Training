@@ -61,7 +61,7 @@ body {
 }
 
 .header {
-    width: 94%;
+    width: 95%;
     padding: 8mm 0mm;
     text-align: center;
     float: center;
@@ -79,7 +79,7 @@ body {
     margin: 5mm;
     overflow: hidden;
     width: 100%;
-    padding: 5mm;
+    padding: 10mm;
 }
 
 .upper-img-section {
@@ -100,7 +100,7 @@ body {
     margin: 5mm;
     overflow: hidden;
     width: 100%;
-    padding: 5mm;
+    padding: 10mm;
 
 }
 
