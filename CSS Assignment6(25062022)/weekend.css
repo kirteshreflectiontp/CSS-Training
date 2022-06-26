@@ -50,7 +50,7 @@ body {
 
 .lastfooter {
     padding-top: 3cm;
-    padding-bottom: 7mm;
+    padding-bottom: 5mm;
 }
 
 .section-right {
@@ -62,15 +62,21 @@ body {
 
 .header {
     width: 95%;
-    padding: 5mm 0mm;
+    padding: 5mm;
     text-align: center;
     float: center;
 }
+.ul {
+    color: crimson;
+    text-align: center;
+    float: center;
+    margin: 0%;
+    padding: 0%;
+}
 
 .title {
-    font-size: larger;
-    border-bottom: 2px solid red;
-    padding: 2mm;
+    font-size: x-large;
+    margin-bottom: 0%;
 
 }
 
@@ -79,7 +85,7 @@ body {
     margin: 4mm;
     overflow: hidden;
     width: 100%;
-    padding: 10mm;
+    padding: 8mm;
 }
 
 .upper-img-section {
@@ -100,7 +106,7 @@ body {
     margin: 4mm;
     overflow: hidden;
     width: 100%;
-    padding: 10mm;
+    padding: 8mm;
 
 }
 
