@@ -64,7 +64,7 @@ body {
     width: 95%;
     padding: 5mm;
     text-align: center;
-    float: center;
+    float: left;
 }
 
 .ul {
@@ -86,7 +86,7 @@ body {
 }
 
 .middle-section {
-    float: center;
+    float: left;
     margin: 4mm;
     overflow: hidden;
     width: 100%;
@@ -107,7 +107,7 @@ body {
 }
 
 .lower-section {
-    float: center;
+    float: left;
     margin: 4mm;
     overflow: hidden;
     width: 100%;
