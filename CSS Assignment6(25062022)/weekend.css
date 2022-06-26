@@ -79,13 +79,15 @@ body {
     margin-bottom: 0%;
 
 }
-
+.para {
+    margin-bottom: 0%;
+}
 .middle-section {
     float: center;
     margin: 4mm;
     overflow: hidden;
     width: 100%;
-    padding: 8mm;
+    padding: 10mm;
 }
 
 .upper-img-section {
@@ -106,7 +108,7 @@ body {
     margin: 4mm;
     overflow: hidden;
     width: 100%;
-    padding: 8mm;
+    padding: 10mm;
 
 }
 
