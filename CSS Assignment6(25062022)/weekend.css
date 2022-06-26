@@ -62,7 +62,7 @@ body {
 
 .header {
     width: 95%;
-    padding: 8mm 0mm;
+    padding: 5mm 0mm;
     text-align: center;
     float: center;
 }
@@ -76,7 +76,7 @@ body {
 
 .middle-section {
     float: center;
-    margin: 5mm;
+    margin: 4mm;
     overflow: hidden;
     width: 100%;
     padding: 10mm;
@@ -97,7 +97,7 @@ body {
 
 .lower-section {
     float: center;
-    margin: 5mm;
+    margin: 4mm;
     overflow: hidden;
     width: 100%;
     padding: 10mm;
