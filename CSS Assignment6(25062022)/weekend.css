@@ -66,6 +66,7 @@ body {
     text-align: center;
     float: center;
 }
+
 .ul {
     color: crimson;
     text-align: center;
@@ -79,9 +80,11 @@ body {
     margin-bottom: 0%;
 
 }
+
 .para {
     margin-bottom: 0%;
 }
+
 .middle-section {
     float: center;
     margin: 4mm;
