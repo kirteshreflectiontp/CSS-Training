@@ -76,7 +76,6 @@ body {
 .middle-section {
     float: left;
     margin: 5mm;
-    text-align: left;
     overflow: hidden;
     width: 100%;
     padding: 5mm;
@@ -85,19 +84,19 @@ body {
 .upper-img-section {
     text-align: left;
     float: left;
-    width: 50%;
+    width: 40%;
 }
 
 .upper-written-section {
     text-align: left;
     float: left;
-    width: 50%;
+    width: 40%;
+    padding-left: 15mm;
 }
 
 .lower-section {
     float: left;
     margin: 5mm;
-    text-align: left;
     overflow: hidden;
     width: 100%;
     padding: 5mm;
@@ -107,13 +106,14 @@ body {
 .lower-written-section {
     text-align: left;
     float: left;
-    width: 50%;
+    width: 40%;
 }
 
 .lower-img-section {
     text-align: center;
     float: left;
-    width: 50%;
+    width: 40%;
+    padding-left: 15mm;
 }
 
 .form {
