@@ -87,8 +87,8 @@ main {
 }
 
 .readmore {
-    text-align: right;
     color: orange;
+    text-align: right;
 }
 .highlight {
     color: orange;

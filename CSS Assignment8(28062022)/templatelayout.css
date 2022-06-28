@@ -1,0 +1,138 @@
+body {
+    margin: 0%;
+    color: darkgrey;
+}
+
+header {
+    width: 100%;
+    background-color: rgb(70, 70, 70);
+    overflow: hidden;
+}
+
+.head {
+    margin: 0% 15% auto;
+    overflow: hidden;
+}
+
+.basic {
+    margin-bottom: 0%;
+}
+
+.basic2 {
+    margin-top: 0%;
+}
+
+.heading {
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+nav {
+    width: 50%;
+    float: left;
+    color: lightgrey;
+    box-sizing: border-box;
+    background-color: rgb(35, 31, 31);
+    overflow: hidden;
+    text-align: center;
+    margin: 25px 0px;
+}
+
+.nav {
+    display: inline-block;
+    overflow: hidden;
+    padding: 10px;
+    margin: 5px;
+}
+
+.nav:hover {
+    color: orange;
+}
+
+main {
+    margin: 25px 15% auto;
+}
+
+.caption {
+    text-align: center;
+    border: 1px solid grey;
+    width: 180px;
+}
+
+.images {
+    float: left;
+    overflow: hidden;
+}
+
+.readmore {
+    color: orange;
+    text-align: right;
+}
+
+.highlight {
+    color: orange;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(70, 70, 70);
+}
+
+.copyright,
+.template {
+    float: left;
+    text-align: center;
+    width: 50%;
+    overflow: hidden;
+    background-color: rgb(35, 31, 31);
+}
+
+.text {
+    float: left;
+    width: 480px;
+    height: 195px;
+    overflow: hidden;
+    padding-left: 30px;
+}
+
+.photo {
+    width: 230px;
+    height: 195px;
+    float: left;
+    overflow: hidden;
+}
+
+.colomn1 {
+    float: left;
+    margin: 20px 0px 20px;
+}
+
+.colomn2 {
+    float: left;
+    margin: 20px 0px 20px;
+}
+
+.row2 {
+
+    text-align: center;
+    font-size: x-large;
+    margin: 10px 0px 10px;
+}
+
+.row2border {
+    border-bottom: 1px solid grey;
+    width: 100%;
+    margin: 25px;
+}
+
+li {
+    padding: 2mm;
+    border-bottom: 1px dotted;
+    list-style-type: square;
+}
+
+li:hover {
+    color: orange;
+}
