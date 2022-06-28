@@ -90,6 +90,9 @@ main {
     text-align: right;
     color: orange;
 }
+.highlight {
+    color: orange;
+}
 
 .block1 {
     width: 50%;
