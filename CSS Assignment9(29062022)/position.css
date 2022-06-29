@@ -1,0 +1,77 @@
+body {
+    margin: 0% 15% 0%;
+    text-align: center;
+
+}
+
+nav {
+    background-color: aquamarine;
+    margin-top: 109px;
+    margin-bottom: 0px;
+    position: fixed;
+    width: 70%;
+    top: 0%;
+}
+
+.navlink {
+    background-color: darkorchid;
+    color: aliceblue;
+    margin: 10px;
+    display: inline-block;
+    padding: 10px;
+    position: relative;
+}
+
+.navlink:hover {
+    color: white;
+    background-color: black;
+
+
+}
+
+.navlink:hover .ul {
+    display: block;
+    color: red;
+    background-color: gainsboro;
+
+}
+
+.ul {
+    display: none;
+    position: absolute;
+    padding: 10px;
+    list-style: none;
+    top: 40px;
+    left: 60px;
+    width: 100px;
+
+
+}
+
+.navlink:hover.ul {
+    display: block;
+}
+
+header {
+    background-color: darkorchid;
+    color: black;
+    position: fixed;
+    width: 70%;
+    top: 0%;
+}
+
+.banner {
+    margin-top: 169px;
+}
+
+main {
+    background-color: blanchedalmond;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 70%;
+    color: black;
+    background-color: darkorchid;
+}
