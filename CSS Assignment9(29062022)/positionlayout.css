@@ -75,6 +75,8 @@ main {
     height: 360px;
     background-color: rgb(70, 70, 70);
     box-sizing: border-box;
+    position: relative;
+    z-index: -2;
 }
 
 .row1,
@@ -86,18 +88,26 @@ main {
 
 .block {
     float: left;
+    margin: 30px 50px 30px 0px;
+}
+.block-last{
+    float: left;
     margin: 30px 0px 30px 0px;
 }
 
 .image {
     background-color: rgb(70, 70, 70);
     height: 180px;
-    width: 290px;
+    width: 320px;
+    position: relative;
+    z-index: -2;
+    border: 5px solid rgba(255, 255, 255, 0.878);
+    box-sizing: border-box;
 }
 
 .details {
     text-align: left;
-    width: 290px;
+    width: 320px;
     color: rgb(70, 70, 70);
 }
 
@@ -121,6 +131,10 @@ main {
     height: 250px;
     float: right;
     background-color: rgb(70, 70, 70);
+    position: relative;
+    z-index: -2;
+    border: 5px solid rgba(255, 255, 255, 0.878);;
+    box-sizing: border-box;
 }
 
 footer {
@@ -175,4 +189,29 @@ h3 {
     position: fixed;
     width: 100%;
     bottom: 0%;
+}
+.measurements {
+    position: absolute;
+    top: 32%;
+    left: 30%;
+}
+.measurements-banner{
+    position: absolute;
+    top: 24%;
+    left: 40%;
+    font-size: 50px;
+}
+.measurements-block2{
+    position: absolute;
+    top: 26%;
+    left: 32%;
+    font-size: 40px;
+}
+.row2heading{
+    font-style:italic;
+    font-size: 35px;
+    margin-top: 0%;
+}
+.row1heading{
+    font-size: 20px;
 }
