@@ -66,30 +66,33 @@ main {
 
 .row1,
 .row2 {
-    max-width:100%;
+    max-width: 100%;
     overflow: hidden;
     box-sizing: border-box;
 }
 
 .block {
     float: left;
-    max-width:calc(33.33% - 30px);
-    margin-right: 30px;
+    max-width: 30%;
+    margin-right: 65px;
 
 }
+
 .last-block {
     float: left;
     margin: 0%;
-    max-width: 33.33%;
+    max-width: 30%;
 }
+
 .image {
     background-color: rgb(70, 70, 70);
     height: 180px;
+    max-width: 310px;
 }
 
 .details {
     text-align: left;
-   
+    max-width: 310px;
     color: rgb(70, 70, 70);
 }
 
@@ -160,69 +163,71 @@ h3 {
     width: 50%;
     overflow: hidden;
     background-color: rgb(35, 31, 31);
-    
+
 }
 
 @media screen and (max-width: 700px) {
     header {
         max-width: 100%;
-        
-    }
 
+    }
+    .head{
+        max-width: 100%;
+    }
     .heading {
         max-width: 100%;
-        
+        overflow: hidden;
     }
 
     nav {
         max-width: 100%;
-       
     }
 
     .banner {
         max-width: 100%;
-       
+
     }
 
     .row1,
     .row2 {
         width: 100%;
-      
+
     }
 
-    .image {
-        
+    .block {
+        max-width: 100%;
+    
+    }
+    
+    .last-block {
         max-width: 100%;
     }
-
+    
+    .image {
+       
+       max-width: 100%;
+    }
+    
     .details {
-        
+       
         max-width: 100%;
        
     }
-
-   
-
-   
 
     .block1 {
         max-width: 100%;
-       
+
     }
 
     .block2 {
         max-width: 100%;
-       
+
     }
 
     footer {
         max-width: 100%;
-     
+
     }
-
-   
-
-   
 
     .footer-block {
 
@@ -230,12 +235,12 @@ h3 {
 
     }
 
-    .copyright,
-.template {
-    
-    max-width: 50%;
-    
-}
+    .copyright{
+        max-width: 100%;
 
-    
+    }
+    .template {
+        max-width: 100%;
+
+    }
 }
