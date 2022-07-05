@@ -7,15 +7,17 @@ header {
     overflow: hidden;
     background-color: #f2f2f2;
 }
+.head-margin{
+    margin: 0% 5% auto;
+}
 .row1{
     width: 100%;
    
 }
 .row1-left {
     float: left;
-    width: 45%;
+    width: 50%;
     box-sizing: border-box;
-    margin-left: 5%;
     overflow: hidden;
     padding: 16px 55px;
     position: relative;
@@ -23,9 +25,8 @@ header {
 
 .row1-right {
     float: right;
-    width: 45%;
+    width: 50%;
     box-sizing: border-box;
-    margin-right: 5%;
     overflow: hidden;
     text-align: right;
     position: relative;
@@ -81,12 +82,12 @@ header {
     width: 170px;
     position: absolute;
     top: 16px;
-    left: 98px;
+    left: 20px;
 }
 .row2-nav{
     text-align: center;
     max-width: 90%;
-    margin: 0% 7% 0% 5% ;
+    margin: 0% 2% 0% 5% ;
     padding: 25px 0px 25px ;
     float: right;
     
@@ -108,7 +109,7 @@ header {
  list-style: none;
  width: 30px;
  position: absolute;
- right: 85px;
+ right: 10px;
  top: 20px;
 }
 .row3 {
