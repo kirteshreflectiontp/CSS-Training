@@ -1,0 +1,145 @@
+.portal {
+    width: calc(16.66% - 40px);
+    text-align: center;
+    box-shadow: 0px 0px 40px 0px grey;
+    padding: 10px 0px;
+    border-radius: 25px;
+    color: blue;
+    float: left;
+    margin: 50px 20px 10px;
+}
+
+.block1 {
+    border-top: 2px solid red;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.caption {
+    width: calc(16.66% - 40px);
+    text-align: center;
+    box-shadow: 0px 0px 40px 0px grey;
+    border-radius: 20px;
+    padding: 5px 0px;
+    color: white;
+    float: left;
+    margin: 10px 20px 50px 20px;
+}
+
+.caption:hover {
+    background-color: white;
+    color: grey;
+}
+
+.style1 {
+    background-color: blueviolet;
+}
+
+.style2 {
+    background-color: orange;
+}
+
+.style3 {
+    background-color: yellowgreen;
+}
+
+.style4 {
+    background-color: orange;
+}
+
+.style5 {
+    background-color: sienna;
+}
+
+.style6 {
+    background-color: orangered;
+}
+
+.block2 {
+    overflow: hidden;
+}
+
+header {
+    margin: 0px 20px 30px;
+    border-bottom: 1px solid lightgrey;
+    overflow: hidden;
+}
+
+.right-box {
+    width: 50%;
+    float: left;
+}
+
+.left-box {
+    width: 50%;
+    padding: 5px 0px 0px 0px;
+    float: left;
+}
+
+.nav {
+    margin: 0px 10px 0px;
+}
+
+.login {
+    padding: 15px 40px;
+    background-color: orangered;
+    color: white;
+    float: right;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+}
+
+footer {
+    border-top: 2px solid black;
+    width: 100%;
+    overflow: hidden;
+}
+
+.block3 {
+    margin: 40px 5% 0px 5%;
+    width: 90%;
+}
+
+.head {
+    border-bottom: 1px solid lightgrey;
+    width: 100%;
+}
+
+.body {
+    border-bottom: 1px solid lightgrey;
+    width: 100%;
+    margin: 2px;
+}
+
+ul {
+    margin: 0%;
+    padding: 0%;
+}
+
+.head-li {
+    display: inline-block;
+    background-color: lightgray;
+    color: grey;
+    padding: 8px 60px;
+}
+
+.state-li {
+    display: inline-block;
+    background-color: yellowgreen;
+    color: White;
+    margin: 5px 0px;
+    padding: 10px 30px;
+    border-radius: 4px 4px 0px 0px;
+    box-shadow: 01px 0px 2px 0px black;
+    font-weight: bold;
+}
+
+.state-li:hover {
+    background-color: orange;
+    box-shadow: 1px 0px 2px 0px black;
+}
+
+a {
+    text-decoration: none;
+}
