@@ -13,7 +13,7 @@ footer {
 
 }
 
-nav {
+.nav {
     max-width: 100%;
     margin: 0% 5% auto;
     background-color: #F2F2F2;
@@ -89,13 +89,13 @@ p {
 
 }
 
-.row1 {
+.row-1 {
     width: 70%;
     float: left;
     margin: 5px 28px 5px 44px;
 }
 
-.row2 {
+.row-2 {
     width: 20%;
     float: left;
     margin: 0px 20px 10px;
