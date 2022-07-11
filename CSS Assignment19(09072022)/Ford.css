@@ -304,6 +304,7 @@ main {
     margin: 30px 40px 20px 0px;
     font-size: 18px;
     padding-bottom: 10px;
+    font-weight: bold;
 
 }
 
@@ -333,7 +334,7 @@ main {
 
 .li {
     float: left;
-    margin: 25px 62px 0px 0px;
+    margin: 16px 62px 0px 0px;
     color: #00095B;
     font-size: 20px;
 
@@ -436,7 +437,10 @@ main {
 .news {
     float: left;
 }
-
+.padding{
+     padding: 24px 0px;
+     
+}
 .viewall {
     float: right;
 }
@@ -484,10 +488,13 @@ main {
 
 .uicon-block {
     border-top: 1px solid grey;
+    margin: 15px 0px;
+    padding: 12px 0px;
 }
 
 .trending {
     overflow: hidden;
+    border-bottom: 1px solid lightgrey;
 }
 
 .trending-img {
@@ -497,7 +504,7 @@ main {
 
 .trending-text {
     float: left;
-    padding: 40px;
+    padding: 28px;
     font-weight: bolder;
 }
 
@@ -552,16 +559,18 @@ main {
 }
 
 .sub-news-caption {
-    font-size: 25px;
+    font-size: 22px;
     color: #00095B;
+    padding: 15px 0px;
 }
 
 .uicon {
     margin-right: 40px;
+   
 }
 
 .um-icon {
-    margin-left: 50px;
+    margin-left: 65px;
 }
 
 .left-section {
@@ -594,8 +603,6 @@ main {
     padding: 0px 20px;
 }
 
-.downarrow {}
-
 .blue-box {
     background-color: #00095B;
     color: white;
@@ -616,4 +623,18 @@ main {
 
 .vedioblock {
     box-shadow: 3px 3px 5px 0px lightgrey;
+    padding: 20px 0px;
+    position: relative;
+}
+.textalign{
+    text-align: center;
+    margin: 20px 0px;
+}
+.marginpageclick{
+    margin: 0px 15px;
+}
+.audiotag{
+    position: absolute;
+    bottom:18%;
+    right: 0%;
 }
