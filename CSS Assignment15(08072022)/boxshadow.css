@@ -1,7 +1,8 @@
-body{
+body {
     margin: 0px;
     overflow: hidden;
 }
+
 .portal {
     width: calc(16.66% - 40px);
     text-align: center;
@@ -12,7 +13,8 @@ body{
     float: left;
     margin: 50px 20px 10px;
 }
-.portal:hover{
+
+.portal:hover {
     color: grey;
 }
 
@@ -134,7 +136,7 @@ ul {
 
 .state-li {
     display: inline-block;
-    background-color: yellowgreen;
+    background-image: linear-gradient(green 50%, darkgreen 50%);
     color: White;
     margin: 5px 0px;
     padding: 10px 30px;
