@@ -10,14 +10,7 @@ header {
    
     
 }
-.fixed{
-    position: fixed;
-    width: 100%;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    z-index: 1000;
-}
+
 .head-margin {
     margin: 0% 5% auto;
 }
@@ -140,6 +133,7 @@ header {
     overflow: hidden;
     position: relative;
     padding: 4px 0px;
+    box-shadow: 0px 5px 15px 0px grey;
 }
 
 .iicon {
@@ -185,8 +179,7 @@ footer {
     margin: 0% 5% auto;
     background-color: #F2F2F2;
     overflow: hidden;
-    
-
+   
 }
 
 .colomn {
@@ -290,14 +283,12 @@ main{
      float: left;
      margin-right: 25px;
      margin-left: 40px;
-     margin-top: 200px
 }
 .colomn2{
     width: 25%;
     float: left;
     background-color: #f2f2f2;
-    margin-top: 200px;
-}
+   }
 .block1{
     overflow: hidden;
 }
@@ -317,12 +308,14 @@ main{
 .post{
     width: 100%;
     display: flex;
-    margin: 20px 0px;
+    margin: 20px -5px;
+    box-shadow: 3px 3px 2px 0px lightgrey;
 }
 .post-img{
     float: left;
     width: 350px;
     margin-right: 30px;
+
 }
 .description{
     float: left;
@@ -439,10 +432,18 @@ main{
 .sub-news-block{
     width: 33.33%;
     float: left;
-    margin-right: 30px;
+    margin: 0px 30px 5px 0px;
+    box-shadow: 2px 3px 3px 0px lightgrey;
 }
 .news-block{
     display: flex;
+    box-shadow: 3px 3px 2px 0px lightgrey;
+}
+.trending-block{
+    border-bottom: 1px solid grey;
+    margin-bottom: 50px;
+    padding: 20px 0px;
+    
 }
 .trending-txt{
     font-size: 22px;
@@ -469,7 +470,7 @@ main{
 }
 .th{
     font-size: 15px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: grey;
     margin: 10px 0px;
 }
@@ -517,4 +518,50 @@ main{
 .um-icon{
  margin-left:50px ;
 }
+.left-section{
+    width: 100%;
+    overflow: hidden;
+}
+.widgets{
+    font-size: 24px;
+    font-weight: bold;
+    color: #00095B;
+    padding: 20px 0px;
+    border-bottom: 1px solid grey;
+    margin: 0px 10px;
+}
+.widgets-links{
+    padding: 15px 0px;
+    border-bottom: 1px solid grey;
+    margin: 0px 10px;
+}
+.widget-heading{
+       color: #00095B;
+       padding: 5px 0px;
+}
+.subline-widget{
+    color: grey;
+    padding: 0px 20px;
+}
+.downarrow{
+    
+}
+.blue-box{
+     background-color: #00095B;
+     color: white;
+     font-size: 18px;
+     text-align: center;
+     padding: 10px;
+     margin: 40px 10px;
+}
+.customize{
+    padding: 10px 20px;
+    border-radius: 18px;
+    color: #00095B;
+    background-color: white;
+    margin: 10px 0px;
 
+}
+.vedioblock{
+    box-shadow:3px 3px 5px 0px lightgrey;
+}
