@@ -596,6 +596,7 @@ main {
 .widget-heading {
     color: #00095B;
     padding: 5px 0px;
+    font-weight:600 ;
 }
 
 .subline-widget {
