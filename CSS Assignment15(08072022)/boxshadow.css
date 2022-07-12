@@ -136,7 +136,7 @@ ul {
 
 .state-li {
     display: inline-block;
-    background-image: linear-gradient(green 50%, darkgreen 50%);
+    background: linear-gradient(green 50%, darkgreen 50%);
     color: White;
     margin: 5px 0px;
     padding: 10px 30px;
@@ -146,7 +146,7 @@ ul {
 }
 
 .state-li:hover {
-    background-color: orange;
+    background:orange;
     box-shadow: 1px 0px 2px 0px black;
 }
 
