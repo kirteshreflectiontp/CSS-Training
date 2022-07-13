@@ -1,0 +1,15 @@
+.psudo{
+    color: chartreuse;
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+.psudo:hover{
+    color: beige;
+    background-color: cadetblue;
+}
+.psudo:focus{
+    color: yellow;
+    background-color: tomato;
+}
+

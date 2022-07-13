@@ -1,0 +1,135 @@
+
+
+main {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    margin: 0px 5% auto;
+}
+
+.section1 {
+    width: 75%;
+    margin-right: 20px;
+}
+
+.section2 {
+    width: 25%;
+    background-color: #f2f2f2;
+    width: 25%;
+    border: 1px solid grey;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.widget{
+    width: 100%;
+    padding: 5px;
+    
+}
+.widget-heading{
+    color: #00095B;
+    font-weight: bold;
+    font-size: 26px;
+    padding: 20px 0px;
+    border-bottom: 1px solid grey;
+
+}
+.widgets-block{
+   
+    font-weight: bold;
+    color: #00095B;
+    border-bottom: 1px solid grey;
+}
+.arrow {
+   padding-left: 200px ;
+} 
+.icon{
+    margin: 10px 10px 10px 0px;
+}
+.sub-widget{
+    margin: 5px 0px 5px 24px;
+}
+
+
+
+.navigation {
+    padding: 5px;
+
+}
+
+ul {
+    padding: 0%;
+}
+
+.navigation-li {
+    padding: 10px 20px 10px 0px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 18px;
+    color: #00095B;
+}
+
+.navigation-li:hover {
+    border-bottom: 2px solid #00095B;
+}
+
+.holyday-box {
+    width: 100%;
+    display: flex;
+    box-shadow: 10px 19px 10px 10px grey;
+    box-shadow: 0px 10px 25px 0px grey;
+
+}
+
+.holyday-img {
+    width: 30%;
+
+}
+
+.holyday-text {
+    width: 70%;
+    padding: 20px;
+    position: relative;
+}
+
+.icon-block {
+    display: flex;
+    border-top: 1px solid grey;
+    position: absolute;
+    bottom: 0%;
+    width: 95%;
+}
+.like{
+    color: #00095B;
+}
+
+.icons {
+    padding: 10px 50px 10px 0px;
+}
+
+.small-heading {
+    font-size: 14px;
+    color: grey;
+    padding: 5px 0px;
+    margin: 5px 0px;
+
+}
+
+.large-heading {
+    font-size: 28px;
+    color: #00095B;
+    padding: 5px 0px;
+    margin: 5px 0px;
+
+}
+
+.medium-heading {
+    font-size: 20px;
+    color: #00095B;
+}
+
+.para {
+    color: grey;
+    padding: 5px 0px;
+    margin: 5px 0px;
+
+}
