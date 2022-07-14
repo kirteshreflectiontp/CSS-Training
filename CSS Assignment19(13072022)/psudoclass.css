@@ -12,4 +12,21 @@
     color: yellow;
     background-color: tomato;
 }
-
+li:nth-child(even){
+    background-color: red;
+    color: black;
+}
+li:nth-child(odd){
+    background-color:black;
+    color: red;
+}
+a:link{
+    color: yellow;
+}
+a:visited{
+    color: navy;
+}
+.icon{
+    font-size: 20px;
+    background-color: bisque;
+}
