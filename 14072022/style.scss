@@ -1,0 +1,15 @@
+@import './scss/common';
+@import './scss/header';
+@import './scss/variable';
+@import './scss/mixin';
+
+@mixin paragraph {
+    font-size: 24px;
+    color: chartreuse;
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+}
+p{
+    @include paragraph;
+}
